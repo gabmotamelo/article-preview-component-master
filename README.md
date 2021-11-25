@@ -22,7 +22,7 @@ This is a solution to the [Article preview component challenge on Frontend Mento
 
 ### Links
 
-- Live Site URL: [faq-accordion-card-main URL](https://gabmotamelo.github.io/faq-accordion-card-main/)
+- Live Site URL: [article-preview-component-master URL](https://gabmotamelo.github.io/article-preview-component-master/)
 
 ## Author
 
